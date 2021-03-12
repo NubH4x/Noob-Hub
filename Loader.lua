@@ -1,6 +1,6 @@
 --arsenal
 if game.PlaceId==286090429 then do
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/NubH4x/Noob-Hub/main/CB%3ARO.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/NubH4x/Noob-Hub/main/Arsenal.lua'))()
 
 --cb:ro
 if game.PlaceId==301549746 then do
