@@ -1,5 +1,5 @@
 if game.PlaceId == 286090429 then
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NubH4x/Noob-Hub/main/Arsenal.lua'))()
         
 if game.PlaceId == 301549746 then
 loadstring(game:HttpGet(''))()
